@@ -1,0 +1,13 @@
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\bin\Debug\netcoreapp3.1\polymorphism2.exe
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\bin\Debug\netcoreapp3.1\polymorphism2.deps.json
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\bin\Debug\netcoreapp3.1\polymorphism2.runtimeconfig.json
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\bin\Debug\netcoreapp3.1\polymorphism2.runtimeconfig.dev.json
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\bin\Debug\netcoreapp3.1\polymorphism2.dll
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\bin\Debug\netcoreapp3.1\polymorphism2.pdb
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\obj\Debug\netcoreapp3.1\polymorphism2.csprojAssemblyReference.cache
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\obj\Debug\netcoreapp3.1\polymorphism2.AssemblyInfoInputs.cache
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\obj\Debug\netcoreapp3.1\polymorphism2.AssemblyInfo.cs
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\obj\Debug\netcoreapp3.1\polymorphism2.csproj.CoreCompileInputs.cache
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\obj\Debug\netcoreapp3.1\polymorphism2.dll
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\obj\Debug\netcoreapp3.1\polymorphism2.pdb
+C:\Users\Dynabook\source\repos\polymorphism\polymorphism2\obj\Debug\netcoreapp3.1\polymorphism2.genruntimeconfig.cache

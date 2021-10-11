@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "polymorphism", "polymorphism\polymorphism.csproj", "{635A9E91-B6B9-46A4-9811-E91C9F02FC44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "polymorphism1", "polymorphism1\polymorphism1.csproj", "{783EA66B-F421-4D6C-9655-1C7F2F84DFBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "polymorphism2", "polymorphism2\polymorphism2.csproj", "{8E8D5EA8-EE89-4B07-869E-7FF1CD3C6D88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{78B8E7A4-3913-45C2-870F-0DB9C267A60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bing", "bing\bing.csproj", "{93623090-39A6-453C-8EF6-CDCAD60E22FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polimorfisme", "polimorfisme\polimorfisme.csproj", "{742E9F42-0E55-4097-8D2E-A776CC1CD5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635A9E91-B6B9-46A4-9811-E91C9F02FC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635A9E91-B6B9-46A4-9811-E91C9F02FC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635A9E91-B6B9-46A4-9811-E91C9F02FC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635A9E91-B6B9-46A4-9811-E91C9F02FC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783EA66B-F421-4D6C-9655-1C7F2F84DFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783EA66B-F421-4D6C-9655-1C7F2F84DFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783EA66B-F421-4D6C-9655-1C7F2F84DFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783EA66B-F421-4D6C-9655-1C7F2F84DFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8D5EA8-EE89-4B07-869E-7FF1CD3C6D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8D5EA8-EE89-4B07-869E-7FF1CD3C6D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8D5EA8-EE89-4B07-869E-7FF1CD3C6D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8D5EA8-EE89-4B07-869E-7FF1CD3C6D88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B8E7A4-3913-45C2-870F-0DB9C267A60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B8E7A4-3913-45C2-870F-0DB9C267A60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B8E7A4-3913-45C2-870F-0DB9C267A60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B8E7A4-3913-45C2-870F-0DB9C267A60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93623090-39A6-453C-8EF6-CDCAD60E22FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93623090-39A6-453C-8EF6-CDCAD60E22FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93623090-39A6-453C-8EF6-CDCAD60E22FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93623090-39A6-453C-8EF6-CDCAD60E22FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742E9F42-0E55-4097-8D2E-A776CC1CD5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742E9F42-0E55-4097-8D2E-A776CC1CD5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742E9F42-0E55-4097-8D2E-A776CC1CD5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742E9F42-0E55-4097-8D2E-A776CC1CD5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DA4668-4091-44AC-B13A-F2FFC1BD9DF3}
+	EndGlobalSection
+EndGlobal
